@@ -1,12 +1,45 @@
+from pathlib import Path
 from util_file import new_json
 
+import json
+
+_BASE = Path(__file__).parent.parent / "GA-Library" / "DATA_GA" / "PRICING_GA"
 
 LOCAL_LISTINGS = new_json("DATA_GA/PRICING_GA/LOCAL_LISTINGS.json")
 LOCAL_SALES = new_json("DATA_GA/PRICING_GA/LOCAL_SALES.json")
 
-TARGET_LISTINGS = None  # Path to main repo LISTINGS.json
-TARGET_SALES = None     # Path to main repo SALES.json
+TARGET_LISTINGS = _BASE / "LISTINGS.json"
+TARGET_SALES = _BASE / "SALES.json"
+
+
+def _sync(target: Path, local: Path) -> None:
+    with target.open("r", encoding="utf-8") as f:
+        target_data = json.load(f)
+
+    with local.open("r", encoding="utf-8") as f:
+        local_data = json.load(f)
+
+    for card_id, editions in target_data.items():
+        for edition_id, foils in editions.items():
+            filled = {foil_id: entries for foil_id, entries in foils.items() if entries}
+
+            if not filled:
+                continue
+
+            if card_id not in local_data:
+                local_data[card_id] = {}
+
+            if edition_id not in local_data[card_id]:
+                local_data[card_id][edition_id] = {}
+
+            for foil_id, entries in filled.items():
+                if foil_id not in local_data[card_id][edition_id]:
+                    local_data[card_id][edition_id][foil_id] = entries
+
+    with local.open("w", encoding="utf-8") as f:
+        json.dump(local_data, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":
-    pass
+    _sync(TARGET_LISTINGS, LOCAL_LISTINGS)
+    _sync(TARGET_SALES, LOCAL_SALES)

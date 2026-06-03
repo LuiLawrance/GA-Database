@@ -1,1 +1,120 @@
-{}
+{
+    "qj5bbae3z4": {
+        "CbHrjHG30G": {
+            "vSMWSVHSSC": [
+                {
+                    "date": "2026-05-09",
+                    "marketplace": "Merlin's",
+                    "price": 800.0,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "qhBecpDUO9": {
+        "NEd0d0SzYM": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-05-14",
+                    "marketplace": "Merlin's",
+                    "price": 380.0,
+                    "quantity": 1,
+                    "info": "https://discord.com/channels/1111896508816695406/1503594581034406010"
+                }
+            ]
+        }
+    },
+    "0yetaebjlw": {
+        "gMd1HKIz9F": {
+            "s8X7T2q5J8": [
+                {
+                    "date": "2026-05-21",
+                    "marketplace": "TCG Player",
+                    "price": 49.99,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "qM9yzxQbfF": {
+        "xMXku7G3RY": {
+            "4EEOoN9sEC": [
+                {
+                    "date": "2026-05-21",
+                    "marketplace": "TCG Player",
+                    "price": 3.49,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "0D6AfZyKXh": {
+        "frJTYVP7bc": {
+            "1LD3ZAuWQX": [
+                {
+                    "date": "2026-05-14",
+                    "marketplace": "TCG Player",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "LeyUk5auEP": {
+        "szigpFX24M": {
+            "4EEOoN9sEC": [
+                {
+                    "date": "2026-06-01",
+                    "marketplace": "TCG Player",
+                    "price": 67.99,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "zuj68m69iq": {
+        "pZZiowoFWL": {
+            "kX7TI8D3j3": [
+                {
+                    "date": "2026-03-31",
+                    "marketplace": "TCG Player",
+                    "price": 138.0,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    },
+    "w7o3agvvnc": {
+        "205t3hp7n2": {
+            "ghqgz0nhsm": [
+                {
+                    "date": "2026-04-07",
+                    "marketplace": "TCG Player",
+                    "price": 36.51,
+                    "quantity": 1,
+                    "info": ""
+                },
+                {
+                    "date": "2026-04-07",
+                    "marketplace": "TCG Player",
+                    "price": 38.53,
+                    "quantity": 2,
+                    "info": ""
+                },
+                {
+                    "date": "2026-04-07",
+                    "marketplace": "TCG Player",
+                    "price": 37.0,
+                    "quantity": 1,
+                    "info": ""
+                }
+            ]
+        }
+    }
+}

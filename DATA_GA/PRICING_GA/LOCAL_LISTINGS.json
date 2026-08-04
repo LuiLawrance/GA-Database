@@ -51,6 +51,112 @@
                     "info": "Near Mint Foil"
                 }
             ]
+        },
+        "0hsmbz1fz2": {
+            "07mvmdwbau": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.9,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.52,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.59,
+                    "quantity": 1,
+                    "info": "Heavily Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.47,
+                    "quantity": 1,
+                    "info": "Damaged"
+                }
+            ],
+            "p6gb0op4nq": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 90.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "ni3OCjD9Hv": {
+            "fY2B8N6Z7o": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.9,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "rD0ru89aOn": {
+            "zYWnZ9UL2d": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.0,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "a2NCLoSyXC": {
+            "8RstF8rBQO": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 25.99,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 21.87,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "k4PiCnHdym": {
+            "MfdW4wrlxc": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.0,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 8.61,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
         }
     },
     "h973fdt8pt": {
@@ -104,6 +210,28 @@
                     "price": 1200.0,
                     "quantity": 1,
                     "info": "Damaged Foil"
+                }
+            ]
+        },
+        "WerSAMX17m": {
+            "h7Ann6W0Ve": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 250.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "uyyfg61EiQ": {
+            "s1DxskPwYD": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.45,
+                    "quantity": 2,
+                    "info": "Near Mint"
                 }
             ]
         }
@@ -460,6 +588,220 @@
                     "price": 0.64,
                     "quantity": 3,
                     "info": "Lightly Played"
+                }
+            ]
+        },
+        "yf9riu5xa6": {
+            "absakbop4z": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.5,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.5,
+                    "quantity": 1,
+                    "info": "Moderately Played Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.98,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.5,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.5,
+                    "quantity": 1,
+                    "info": "Moderately Played Foil"
+                }
+            ],
+            "p9g0fz2n78": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.2,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.27,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 8,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.27,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "7LvK36Doj3": {
+            "UI1C2QfYBv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.17,
+                    "quantity": 14,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "U5AssLr4vi": {
+            "QAKVc7yryZ": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.44,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "dyfr0rqlyw": {
+            "07mvmdwbau": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.2,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 61,
+                    "info": "Lightly Played"
+                }
+            ],
+            "p6gb0op4nq": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.9,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.18,
+                    "quantity": 2,
+                    "info": "Moderately Played Foil"
+                }
+            ]
+        },
+        "KbzLShSEpu": {
+            "fY2B8N6Z7o": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ],
+            "ubTr1VPeRR": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.98,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "22ttcirao9": {
+            "9ytyjss357": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.97,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.97,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oexdlvivlo": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.4,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.82,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.4,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.82,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.49,
+                    "quantity": 1,
+                    "info": "Moderately Played"
                 }
             ]
         }
@@ -996,6 +1338,28 @@
                     "info": "Near Mint"
                 }
             ]
+        },
+        "GLBvKQocUd": {
+            "93L7A3h3zf": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.34,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "fludrct5n5": {
+            "g6p4dnamcf": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 69.99,
+                    "quantity": 4,
+                    "info": "Near Mint - Chinese (T)"
+                }
+            ]
         }
     },
     "h1njd7z5j3": {
@@ -1530,6 +1894,33 @@
                     "marketplace": "TCGPlayer",
                     "price": 0.5,
                     "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "0i90aTCfJT": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.74,
+                    "quantity": 11,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.76,
+                    "quantity": 7,
                     "info": "Lightly Played"
                 }
             ]
@@ -2469,6 +2860,54 @@
                     "info": "Near Mint"
                 }
             ]
+        },
+        "q71fri1Fva": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.99,
+                    "quantity": 8,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.83,
+                    "quantity": 18,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.83,
+                    "quantity": 6,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.81,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.83,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
         }
     },
     "y547d3iixm": {
@@ -2561,6 +3000,17 @@
                     "price": 29.99,
                     "quantity": 1,
                     "info": "Lightly Played Foil"
+                }
+            ]
+        },
+        "PQKejuWp0p": {
+            "Ythn4xrZNd": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 329.95,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
                 }
             ]
         }
@@ -2691,6 +3141,54 @@
                     "price": 0.15,
                     "quantity": 8,
                     "info": "Moderately Played"
+                }
+            ]
+        },
+        "RYyqoItemk": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.91,
+                    "quantity": 8,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.04,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.91,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.04,
+                    "quantity": 2,
+                    "info": "Lightly Played"
                 }
             ]
         }
@@ -3372,6 +3870,24 @@
                     "price": 0.18,
                     "quantity": 9,
                     "info": "Near Mint"
+                }
+            ]
+        },
+        "DylonWXbBJ": {
+            "obuSQiOOeE": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.95,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
                 }
             ]
         }
@@ -4360,6 +4876,28 @@
                     "info": "Near Mint Foil"
                 }
             ]
+        },
+        "mmtIxQLPDT": {
+            "9rPfU976Xj": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1299.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "rAP6FQoIhX": {
+            "9rPfU976Xj": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1699.99,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ]
         }
     },
     "znk6g5o8ys": {
@@ -4403,6 +4941,33 @@
                     "info": "Moderately Played"
                 }
             ]
+        },
+        "zQ5GL4ZWpU": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 8.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.97,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.02,
+                    "quantity": 9,
+                    "info": "Lightly Played"
+                }
+            ]
         }
     },
     "gt2zqtgs42": {
@@ -4422,6 +4987,33 @@
                     "marketplace": "TCGPlayer",
                     "price": 10.0,
                     "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "W88OdAx7fH": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.98,
+                    "quantity": 13,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.88,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.99,
+                    "quantity": 4,
                     "info": "Near Mint Foil"
                 }
             ]
@@ -4494,6 +5086,17 @@
                     "info": "Lightly Played"
                 }
             ]
+        },
+        "aqUCyOl7vK": {
+            "tq6qZWRtfC": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
         }
     },
     "4g7kufs4kg": {
@@ -4530,6 +5133,54 @@
                     "info": "Lightly Played Foil"
                 }
             ]
+        },
+        "SPDaEHQ69w": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.9,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.62,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.9,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.62,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 22.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 21.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
         }
     },
     "1db8hz4prm": {
@@ -4557,6 +5208,54 @@
                     "price": 15.2,
                     "quantity": 1,
                     "info": "Lightly Played"
+                }
+            ]
+        },
+        "KNQ7J2HjUi": {
+            "FpGEGgXAgu": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.99,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.67,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.98,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.67,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "zPwf1rxg5F": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 49.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 44.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
                 }
             ]
         }
@@ -4648,6 +5347,3990 @@
                     "date": "2026-07-24",
                     "marketplace": "TCGPlayer",
                     "price": 400.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "ltv5klryvf": {
+        "qwwvyfjo9i": {
+            "c91f92cj77": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.14,
+                    "quantity": 15,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 8,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 5,
+                    "info": "Moderately Played"
+                }
+            ],
+            "lrsruafk5e": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.44,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "Rgg4dJYxnl": {
+        "I4wEhxaCaT": {
+            "cAUDvMk4HC": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 17.99,
+                    "quantity": 8,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "e7FEx0Jzyn": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.27,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "PUoKEbxx4z": {
+            "rBtN0OlTF3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1099.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "lvmj48fn9p": {
+        "tet9ocqs6b": {
+            "cectb2onmu": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.05,
+                    "quantity": 135,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.16,
+                    "quantity": 4,
+                    "info": "Moderately Played"
+                }
+            ],
+            "g2504giy0o": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.29,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "4936z2zp60": {
+            "m8ungne4k3": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 3,
+                    "info": "Moderately Played"
+                }
+            ]
+        },
+        "0cn0m84Lew": {
+            "e6FbHqmQXd": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "kJoyEo9Ls1": {
+        "ovuWxG8NMi": {
+            "ncoc1cN145": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.23,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.25,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ],
+            "oVFXD1rzLm": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.85,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "vpmu6gvnta": {
+        "Lo197HRXFf": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.5,
+                    "quantity": 28,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.94,
+                    "quantity": 9,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 48.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "NwK5wge8wy": {
+        "jtQTRvEHBh": {
+            "ByOv0ZcfNA": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.71,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "OlG4gsVc7C": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.25,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "InAoSRoZEn": {
+            "sg7PM7lV7O": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "zk96yd609g": {
+        "yh7ikmhyi3": {
+            "dortn4fazm": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.57,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.7,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.57,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.7,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "yp7nw5t5vy": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.13,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.05,
+                    "quantity": 17,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "WVikAI6lrJ": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 8,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.76,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.78,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.74,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.78,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "ek5r5YlFQv": {
+        "MrZau9GA5v": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.9,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.08,
+                    "quantity": 17,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.09,
+                    "quantity": 12,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "mala1jaff7": {
+        "gK0Ff5YjYs": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 13.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.94,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.97,
+                    "quantity": 9,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "lgdlx7mdk0": {
+        "tW8S8UaUe4": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.97,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 13,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "UVAb8CmjtL": {
+        "D7V305Ucgn": {
+            "FpGEGgXAgu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 28,
+                    "info": "Near Mint"
+                }
+            ],
+            "zPwf1rxg5F": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 59.98,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "9wxcgpy069": {
+        "bFvo3ERjKj": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.55,
+                    "quantity": 9,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.39,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.39,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 12.99,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "5pw07bh5wf": {
+        "fbQpsO82hV": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.85,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.77,
+                    "quantity": 8,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 18.94,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "mr1lmsbjcf": {
+        "fSryMtgaRF": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.84,
+                    "quantity": 21,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.93,
+                    "quantity": 16,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "1t3dvor61i": {
+        "0IMlr0Q29b": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.71,
+                    "quantity": 21,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.74,
+                    "quantity": 11,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "hs1mzjzexc": {
+        "NZEMItFvB1": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.75,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.04,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 12.9,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "24I0xn0OQ1": {
+        "frXsbKHuko": {
+            "FpGEGgXAgu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.76,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.73,
+                    "quantity": 8,
+                    "info": "Lightly Played"
+                }
+            ],
+            "zPwf1rxg5F": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 39.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "zuAmYGyCcL": {
+        "g5yBdaYSVM": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.98,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.48,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "w64layznmh": {
+        "6AhdNcD1F9": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 30,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.39,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.39,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "4vZN8JlY2k": {
+        "DBSxIqAwiQ": {
+            "FpGEGgXAgu": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.26,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.25,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.0,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.25,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                }
+            ],
+            "zPwf1rxg5F": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 34.75,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.75,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "mxqsm4o98v": {
+        "rLfgTZoHa4": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.75,
+                    "quantity": 34,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.77,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.73,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.77,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "t3Yb097xpJ": {
+        "s0pXRv3WCW": {
+            "8NxzPksKwb": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.95,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.75,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                }
+            ],
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 23.9,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 21.75,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "7t9m4muq2r": {
+        "eyGopFTRT2": {
+            "kLduf4r5F3": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "YLCksReLWi": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.83,
+                    "quantity": 37,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.04,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.81,
+                    "quantity": 37,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.04,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "GuDKuPKNgh": {
+        "DNTDdijJxW": {
+            "FpGEGgXAgu": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.85,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.99,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.85,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.99,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "zPwf1rxg5F": [
+                {
+                    "date": "2026-07-25",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 24.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "daip7s9ztd": {
+        "ggliackmst": {
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 44.89,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oCSPzfFRAG": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.01,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.49,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "fhomy86084": {
+        "82ntpsw21t": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.41,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.78,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.14,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "21oy1nd4nw": {
+        "met15igt0y": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.78,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "ukurlcbgzi": {
+        "16yqogunj0": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.58,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.3,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "f6lxizyuml": {
+        "iqc5s0o57y": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.79,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 17.99,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.28,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "5tphi6xl26": {
+        "m5qm8k9goq": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.29,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 1,
+                    "info": "Heavily Played"
+                }
+            ]
+        }
+    },
+    "Dz8I0eJzaf": {
+        "t8hwGuYPYg": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.99,
+                    "quantity": 7,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "6g7x7tja9h": {
+        "buhdecy6op": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.96,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.01,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "w7annwvl5q": {
+        "xv4q0t14dy": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.74,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.81,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "As6uJAvZ9q": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.14,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.29,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ]
+        }
+    },
+    "mob9nu6lal": {
+        "1ucb15ecol": {
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.54,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oCSPzfFRAG": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.34,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "iuixf9rdmu": {
+        "8o7b2n4wlt": {
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.97,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oCSPzfFRAG": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "f4wqesifxk": {
+        "hcp0ccafb1": {
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 5,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oCSPzfFRAG": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "2s08hssegf": {
+        "p7whzr4oiq": {
+            "n5tlECkqSW": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 45.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "21g6ldxwrv": {
+        "t8oeztniac": {
+            "n5tlECkqSW": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.27,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "pvxb5hrfsu": {
+        "02n8ya9ha8": {
+            "n5tlECkqSW": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.99,
+                    "quantity": 8,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "zcvq77mdgd": {
+        "kqwxfpj6xb": {
+            "n5tlECkqSW": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.14,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.16,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.05,
+                    "quantity": 2,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "cnjo0ehqyk": {
+        "je6i56f3zf": {
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.47,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "oCSPzfFRAG": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.29,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "dz4qd82liq": {
+        "rg2skn08r6": {
+            "n5tlECkqSW": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "7i24g0nbxz": {
+        "ctfj2vm0c0": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.49,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.38,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "2la6uk1qvl": {
+        "tssightkxn": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 14,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "aenquoed10": {
+        "yxq6hz8052": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.47,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.13,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 7,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "zrvvwz3ww9": {
+        "q1l6b3r5ae": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 18.11,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.2,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 1,
+                    "info": "Damaged"
+                }
+            ]
+        }
+    },
+    "2nc48s3oqh": {
+        "um2nsig3b4": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.4,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "wbjc9t8ycp": {
+        "lk7q9vfdqn": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.49,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.93,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.11,
+                    "quantity": 1,
+                    "info": "Damaged"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.5,
+                    "quantity": 2,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "KVbuQJyWsU": {
+        "JmWjYSXZms": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 45.0,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 49.42,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "o6gb0op3nq": {
+        "7ML4Ui4aoA": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 61,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.49,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 8.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "apu7wiw3cl": {
+        "kcv0fefbkj": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 16,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.59,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "ddkocwcm38": {
+        "hlv6121ial": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.45,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "uxhmucm8si": {
+        "rcuj0vkrrn": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 7,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.88,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "o09csnorqv": {
+        "w3oa09534s": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 21,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.74,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 11.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 12.99,
+                    "quantity": 2,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "w7g91ru45w": {
+        "hqujjd0g2k": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "fjpimrl974": {
+        "3tcae41mhi": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.99,
+                    "quantity": 5,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.45,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "qzv380ujf5": {
+        "gxw0q94fym": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.28,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "68vmoyslWt": {
+            "8VBCmXX9dg": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 200.0,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "xgax8bbjqj": {
+        "p0xhojoay9": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.86,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.79,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "26ya6zaae8": {
+        "xj2wh6ipu7": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.45,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "hd0sxpu7cp": {
+        "p90l7heq7j": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "a8mmiv2ptn": {
+        "uxdce7d03v": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 18.2,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "7w4v1hgl3e": {
+        "qxvut6f4ix": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.0,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.74,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 18.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "T1Wb7b2xQX": {
+            "DwbM6GpWpU": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 299.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "0s6solta0h": {
+        "goof3n1eqm": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.09,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.77,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "ye7f7o5yut": {
+        "jgwlicqlif": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.58,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.43,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "h68dr63eo5": {
+        "ftsws0j6sh": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.98,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 15.2,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "h3UcW0UzHC": {
+            "8VBCmXX9dg": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "HPDawzCDdr": {
+        "Vq3fE25MlG": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.1,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "28bjn8g50v": {
+        "6nhenubmrt": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 21,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.28,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.96,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "rufki4o41y": {
+        "r8y2vca8a9": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 5,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.31,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "4qc47amgpp": {
+        "7u395jc8um": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.95,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.99,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 13.17,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "DHY90nnoW3": {
+            "8VBCmXX9dg": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 296.84,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "8mrn8at13c": {
+        "pvfxptotgw": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "fbvt9rdhkj": {
+        "b2jwcu7zoc": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 8,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 6,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 5,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.94,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "cyfrzrplyw": {
+        "65JcQCoITA": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.13,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.31,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "1S7Q5fqX5u": {
+        "WNfBCAwOix": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.7,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 35.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "pfavgpsj3r": {
+        "ub5lbedbfy": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 5,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.98,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "gqh3mw478q": {
+        "llkvc00h4j": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.16,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.85,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "macqlgvqo3": {
+        "ww3sy4l8c4": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.96,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.99,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 12,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "kugriwszxr": {
+        "ldizr5nujt": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "no5tu5412v": {
+        "dv1u5hixr2": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.22,
+                    "quantity": 19,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 11,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 13.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "5u5m8xblmd": {
+        "li9rj8nltg": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 17.0,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 45.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "JOJI083BbK": {
+            "8VBCmXX9dg": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 699.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "t1cn1tzgcx": {
+        "A4GMUbKXqn": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.2,
+                    "quantity": 6,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "sm68d3we64": {
+        "j5m1tjk0gb": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.49,
+                    "quantity": 14,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.98,
+                    "quantity": 1,
+                    "info": "Damaged"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "vwbcizm6h3": {
+        "uhq8Js2TZa": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 19,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.98,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "wi4f59furp": {
+        "gdz666jkmu": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 13.0,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 47.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "jtp4cy6pdy": {
+        "iqechbdpx7": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.58,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "lgl8pux7v9": {
+        "yiddzuquam": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.73,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "jn4mwv930y": {
+        "6h8ncmybjm": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 11,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.0,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "2zs1pana81": {
+        "3ew0egwmde": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 13,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.19,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.1,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "58xpspudnf": {
+        "obf19et3ar": {
+            "hwJI8wwkLU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 13,
+                    "info": "Near Mint"
+                }
+            ],
+            "rMcXeAy2rv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.84,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "fta5isdgrk": {
+        "7ifvrykvb2": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.48,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 25,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.15,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "pc0y3xneg7": {
+        "fpbr6gtkxa": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.2,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 7.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "1mvv1f83ls": {
+        "dv7zz5n8h7": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.32,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.1,
+                    "quantity": 26,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "xmtjrvfpuc": {
+        "q19diby84b": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.95,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.5,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.17,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.48,
+                    "quantity": 3,
+                    "info": "Moderately Played"
+                }
+            ]
+        }
+    },
+    "ms2x2v4qe3": {
+        "3bstey3ux8": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.5,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 14.25,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 43.0,
+                    "quantity": 2,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "gamylrj1fc": {
+        "ozr8r72081": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 5.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 14,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.49,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ]
+        }
+    },
+    "oye74ibwo8": {
+        "vmyiuir380": {
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.16,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "up6fw61vf1": {
+        "jvxht1sgi2": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.99,
+                    "quantity": 5,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.57,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "mt5zs1w6c0": {
+        "1t8d7f0epo": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.44,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.38,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "7h2k6p8fss": {
+        "43b62c36zy": {
+            "0UHuohVf9S": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "GtCbktPC7B": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "p2n1953som": {
+        "hud0lvrnsp": {
+            "Gy75cn9aEu": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.22,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.99,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ],
+            "hUWMnKV1sU": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 10.22,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 12.98,
+                    "quantity": 2,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "da2ha4dk88": {
+        "CsKWxsZ1Bg": {
+            "9rPfU976Xj": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1399.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "nzre1D3hzV": {
+            "9rPfU976Xj": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 1698.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "tzV8YfYdHg": {
+        "gg817JRV3N": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "btkDyHhGNh": {
+            "tZLBR1wWsK": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 29.99,
+                    "quantity": 5,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "Bt9xeTum94": {
+        "T1EsD1BwYL": {
+            "8Q5ooCQnHH": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.0,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ],
+            "ByOv0ZcfNA": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 23.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "6yW2zOwWmU": {
+        "gPPo3DG5oe": {
+            "ncoc1cN145": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.67,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ],
+            "oVFXD1rzLm": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 12.99,
+                    "quantity": 8,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "Yuj8xCUejq": {
+        "JdTuFxMUoi": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 399.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "b9lli2PE7I": {
+        "GYCV7aztAZ": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 399.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "NwswAHojeq": {
+        "wm5lu3r3tw": {
+            "7dm5j4lxfx": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.18,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.84,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.84,
+                    "quantity": 1,
+                    "info": "Heavily Played"
+                }
+            ],
+            "y4537nsxir": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.71,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "CmwEWthNcw": {
+            "UI1C2QfYBv": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.17,
+                    "quantity": 26,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.23,
+                    "quantity": 6,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.23,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ]
+        }
+    },
+    "jjGLZKfRn5": {
+        "Kgrye49tuN": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 250.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "Ox449xU5yO": {
+        "24uRBjFtiS": {
+            "ByOv0ZcfNA": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 39.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "OlG4gsVc7C": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.0,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.98,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "N0GEBrywbW": {
+        "WSaEcY7M1Q": {
+            "ByOv0ZcfNA": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 6.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "OlG4gsVc7C": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.65,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.47,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.29,
+                    "quantity": 1,
+                    "info": "Heavily Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.6,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.47,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.29,
+                    "quantity": 1,
+                    "info": "Heavily Played"
+                }
+            ]
+        },
+        "TqimlVCD3W": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "EKiMJfgvSI": {
+        "auE4gBP4Fj": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 129.95,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "67CIhG8hmG": {
+        "efS5JflChJ": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 87.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "G8pN8Hackq": {
+        "OX21mHMuGf": {
+            "ByOv0ZcfNA": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 100.0,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 37.99,
+                    "quantity": 1,
+                    "info": "Damaged Foil"
+                }
+            ],
+            "OlG4gsVc7C": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 27.05,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "kT45RijQzg": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1649.99,
+                    "quantity": 2,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "heq49UQGvQ": {
+        "437wrwhqq1": {
+            "7dm5j4lxfx": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.97,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.76,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.48,
+                    "quantity": 2,
+                    "info": "Moderately Played"
+                }
+            ],
+            "y4537nsxir": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 17.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "2GqYUWJSrl": {
+            "fpEn7xIRzO": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 33.5,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "N2Mk4u7e5X": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.66,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.48,
+                    "quantity": 1,
+                    "info": "Moderately Played"
+                }
+            ]
+        },
+        "aB93Fl6PFL": {
+            "8dBps9N0mS": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.2,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.88,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "qEnwUcxRpU": {
+            "UI1C2QfYBv": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.35,
+                    "quantity": 18,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.64,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "hWzVMRqvPy": {
+            "HSOUHg9Xwc": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.89,
+                    "quantity": 2,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "41t70u4bzz": {
+            "8q0vk89n7a": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 22.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "c42yb9p4lp": [
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 9.99,
+                    "quantity": 8,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-27",
+                    "marketplace": "TCGPlayer",
+                    "price": 8.99,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "TjiH4U35bv": {
+        "skvxdIopqM": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 319.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 349.99,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "0xk8GPkiOz": {
+        "FGoTq3QgMa": {
+            "LGt4wxskpT": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.09,
+                    "quantity": 7,
+                    "info": "Near Mint"
+                }
+            ],
+            "pzOq7rgvHa": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "ZSSegCjquB": {
+        "o8jwanjcy4": {
+            "bro89waejc": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.93,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 3.64,
+                    "quantity": 4,
+                    "info": "Lightly Played"
+                }
+            ],
+            "htjm4muq20": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 17.55,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "Io93lyvSyg": {
+            "KUqNycUAeY": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 199.99,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "urolRm4zO0": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.9,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "4ymOAWOC49": {
+            "zwEAEt8Ozm": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 1.7,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "XLrHaYV9VB": {
+        "C5MEnsmzPS": {
+            "kX7TI8D3j3": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 179.76,
+                    "quantity": 3,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "OmWFVRUr8I": {
+        "bkDz4lk67X": {
+            "ncoc1cN145": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.25,
+                    "quantity": 3,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.73,
+                    "quantity": 2,
+                    "info": "Lightly Played"
+                }
+            ],
+            "oVFXD1rzLm": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 4.99,
+                    "quantity": 12,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        },
+        "CbHteS57ZG": {
+            "UYMGYyYUZg": [
+                {
+                    "date": "2026-07-26",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.53,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "uwnHTLG3fL": {
+        "lv5XDU2Hxu": {
+            "kX7TI8D3j3": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 176.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "5h8asbierp": {
+        "d53zb9p4lp": {
+            "x902k3a6jh": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 250.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "4n1n3gygoj": {
+        "Wana1WLFqx": {
+            "kX7TI8D3j3": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 88.34,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "cUltOcPo26": {
+        "Fwbt5hohCt": {
+            "BXNXtg79ig": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 300.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "peOHtFpk6o": [
+                {
+                    "date": "2026-07-29",
+                    "marketplace": "TCGPlayer",
+                    "price": 50.0,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "kk39i1f0ht": {
+        "2l8lbewemh": {
+            "ct3ynbcrae": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 22.37,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 21.1,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "tTFFH1OnSO": {
+            "8lP9W6zJLx": [
+                {
+                    "date": "2026-07-28",
+                    "marketplace": "TCGPlayer",
+                    "price": 1899.99,
+                    "quantity": 4,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "m4c8ljyevp": {
+        "fiszdne4n3": {
+            "dortn4fazm": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.38,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ],
+            "yp7nw5t5vy": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.02,
+                    "quantity": 9,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.01,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "etmgpwkkbb": {
+            "o8j6aotm85": [
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.24,
+                    "quantity": 83,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-04",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.05,
+                    "quantity": 3,
+                    "info": "Lightly Played"
+                }
+            ]
+        }
+    },
+    "uZCyXDNJ6I": {
+        "G3J2VtbbvH": {
+            "1Y3QQXxc35": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 0.17,
+                    "quantity": 48,
+                    "info": "Near Mint"
+                }
+            ]
+        }
+    },
+    "9K4etFOi4M": {
+        "tYGzgYYi7h": {
+            "J0btL0vZeH": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 898.79,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "igmC01eEZn": {
+        "45VazNwEjW": {
+            "PwzaQS0TUQ": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 2.25,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                }
+            ],
+            "t17B4Vl7Cy": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 99.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 98.99,
+                    "quantity": 1,
+                    "info": "Lightly Played Foil"
+                }
+            ]
+        }
+    },
+    "Epmh7VncaR": {
+        "8fYkBshdQ8": {
+            "PwzaQS0TUQ": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 15.5,
+                    "quantity": 4,
+                    "info": "Near Mint"
+                }
+            ]
+        },
+        "96HHjGETeL": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 175.0,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "y7AFl2B1B3": {
+        "pxasLwVqzf": {
+            "PwzaQS0TUQ": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 8.52,
+                    "quantity": 1,
+                    "info": "Near Mint"
+                },
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 19.99,
+                    "quantity": 1,
+                    "info": "Lightly Played"
+                }
+            ]
+        },
+        "wY5ZPyT44U": {
+            "S2rHHrLv9g": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 299.99,
+                    "quantity": 1,
+                    "info": "Near Mint Foil"
+                }
+            ]
+        }
+    },
+    "UmZpK4rt2M": {
+        "cQzAaLzmsl": {
+            "6J7odapCGi": [
+                {
+                    "date": "2026-08-03",
+                    "marketplace": "TCGPlayer",
+                    "price": 200.0,
                     "quantity": 1,
                     "info": "Near Mint Foil"
                 }
